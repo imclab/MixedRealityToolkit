@@ -2,13 +2,13 @@
 Toolkit code, project goals & crashcourse enrollment info coming soon...
 
 
-<b><h1>Mixed Reality Toolkit
+<b><h1>Mixed Reality Toolkit</h1></b>
+
+<br>
 
 
-Crashcourse Syllabus</h1></b>
-
-<br><br>
-
+<b><h2>Crashcourse Syllabus (preview)</h2></b>
+<br>
 <b>Week 1:	Maya & Blender Overview</b>
 
 Brief History
