@@ -7,6 +7,8 @@ Course enrollment information & code coming soon...
 
 Crashcourse Syllabus
 
+
+
 Week 1:	Maya & Blender Overview</b>
 
 Brief History
@@ -195,9 +197,10 @@ Assignment 12:
 3D printed product, IoT device, networked object or space as computational input &/or display
 
 
-Final Project Presentations 
+<b>Final Project Presentations</b>
 
-Optional Final Project Submissions considered for exhibition at IMC Lab + Gallery in New York
+
+<b>Optional Final Project Submissions considered for exhibition at IMC Lab + Gallery in New York.</b>
 
 
 
