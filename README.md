@@ -2,12 +2,12 @@
 Course enrollment information & code coming soon...
 
 
-<b>Mixed Reality Toolkit
+<b><h1>Mixed Reality Toolkit
 
 
-Crashcourse Syllabus
+Crashcourse Syllabus</h1>
 
-
+<br><br>
 
 Week 1:	Maya & Blender Overview</b>
 
