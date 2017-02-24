@@ -8,6 +8,7 @@ Course enrollment information & code coming soon...
 Crashcourse Syllabus
 
 Week 1:	Maya & Blender Overview</b>
+
 Brief History
 Industry standard software & file formats
 Workspace layout & toolset
@@ -23,6 +24,7 @@ Maya 3D model or animation rendered (JPG or MOV) with custom geometry, textures 
 
 
 <b>Week 2:	Unity 3D Overview</b>
+
 Brief History
 Industry standard software & file formats
 Workspace layout & toolset
@@ -46,6 +48,7 @@ Unity scene or animation with geometry, textures, lights, FX & virtual camera mo
 
 
 <b>Week 3:	Inputs, Interfaces & Interactivity Overview</b>
+
 Input for control of VR, AR & MR worlds- Mouse, keyboard, game control, joystick, gyro, touch
 Middleware- bridge input from any device or app to send input to 3D worlds via Sockets, OSC
 Gesture & body control techniques-
@@ -65,6 +68,7 @@ Unity scene with 2-3 different input techniques or 1 custom controller for basic
 
 
 <b>Week 4:	VR Overview</b>
+
 Brief History
 Display Options- VR headsets, StereoScope, ViewMaster, cardboard, Gear, Oculus, Vive 
 Input Options (Gyro, head tracking, GUIs, touch, voice controller devices & other interfaces)
@@ -78,6 +82,7 @@ Unity scene & VR app for Oculus/Vive or mobile/cardboard with 360 photo or video
 
 
 <b>Week 5:	VR In-Depth</b>
+
 VR 3D worlds, art & games
 Multiplayer networking- Web services & techniques for creating MMORPG worlds
 Data-driven worlds- Web services, users accounts, & data feeds for generating worlds 
@@ -88,6 +93,7 @@ Unity scene & VR app for Oculus/Vive or for mobile/cardboard with networking or 
 
 
 <b>Week 6:	AR Overview</b>
+
 Brief History- Steve Mann, Augmediated Reality, Calm Computing, Ubicomp
 Display Options- AR Headsets, Meta Space Glasses, Microsoft Hololense. DIY examples
 Input Options (Gyro, head tracking, GUIs, touch, voice, controller devices & other interfaces)
@@ -99,6 +105,7 @@ Unity scene & AR app for Meta/Hololens or mobile/cardboard with AR overlay or ba
 
 
 Week 7: 	AR In-Depth</b>
+
 Cloud software & Web service creation as AR/VR data source
 Marker tracking & custom marker creation- Vuforia
 Markless tracking- Vuforia, OpenCV
@@ -111,6 +118,7 @@ Unity scene & AR app for Meta/Hololens or mobile/cardboard with advanced mode of
 
 
 <b>Week 8:	Mixed Reality Overview</b>
+
 Immersive Environments & CAVEs
 Brief History- Lascaux, LawnMower Man, Military Simulators,  MIT Tangible Bits, Ars Electronica
 CAVE, CINE, 
@@ -128,6 +136,7 @@ Unity scene & MR app for 2-5 projectors/screens or 1 projector mapped to object 
 
 
 <b>Week 9: 	Mixed Reality In-Depth</b>
+
 Public Spaces & Smart Cities
 Brief history- Rafael Lozano-Hemmer, Leo Vireal, Christo
 Biology & Brain- Psychology/Neuroscience of spatial memory, immersion, illusion, perception, synesthesia, group dynamics, creative flow, empathy, learning, plasticity & imagination
@@ -144,6 +153,7 @@ Final project proposals- personal mission statement, project diagrams, schematic
 
 
 <b>Week 10:	3D Printing & Rapid Prototyping</b>
+
 Brief history
 Maker Movement- Obama National Maker Space Initiative
 3D printing for kids & classrooms- safe materials, DIY, inexpensive options
@@ -156,6 +166,7 @@ Assignment 11:
 
 
 <b>Week 11:	Future of R (reality)</b>
+
 Future Classrooms-
 Networked environments, 
 hands-on, learn by doing, 
@@ -171,6 +182,7 @@ Government, Speech & Activism- FSB, elections, citizen participation, data.gov
 
 
 <b>Week 12: Deep Future- smart materials, nanotech & AI</b>
+
 MIT smart & programmable materials
 	Nanotech- Kurzweil, pill cameras, Inner Space movie, brain interfaces, remote medicine
 	AI- Hinton, LeCunn (NYU), Ng, deep learning, DeepMind, Watson, DARPA Grand Chall
