@@ -1,15 +1,15 @@
 # mixedrealitytoolkit
-Course enrollment information & code coming soon...
+Toolkit code, project goals & crashcourse enrollment info coming soon...
 
 
 <b><h1>Mixed Reality Toolkit
 
 
-Crashcourse Syllabus</h1>
+Crashcourse Syllabus</h1></b>
 
 <br><br>
 
-Week 1:	Maya & Blender Overview</b>
+<b>Week 1:	Maya & Blender Overview</b>
 
 Brief History
 Industry standard software & file formats
@@ -24,7 +24,7 @@ Motion Capture & Animating Rigs
 Assignment 1: 
 Maya 3D model or animation rendered (JPG or MOV) with custom geometry, textures & lighting
 
-
+<br>
 <b>Week 2:	Unity 3D Overview</b>
 
 Brief History
@@ -48,7 +48,7 @@ Unity scene or animation with geometry, textures, lights, FX & virtual camera mo
 
 
 
-
+<br>
 <b>Week 3:	Inputs, Interfaces & Interactivity Overview</b>
 
 Input for control of VR, AR & MR worlds- Mouse, keyboard, game control, joystick, gyro, touch
@@ -68,7 +68,7 @@ Deep Learning / Machine Learning for interface personalization & teamwork optimi
 Assignment 3: 
 Unity scene with 2-3 different input techniques or 1 custom controller for basic interactivity
 
-
+<br>
 <b>Week 4:	VR Overview</b>
 
 Brief History
@@ -82,7 +82,7 @@ Stereoscopic 360 photo & video capture- Nikon rig, 2xRicoh/LG 360 cam, autostere
 Assignment 4: 
 Unity scene & VR app for Oculus/Vive or mobile/cardboard with 360 photo or video
 
-
+<br>
 <b>Week 5:	VR In-Depth</b>
 
 VR 3D worlds, art & games
@@ -93,7 +93,7 @@ Exploratory search & discovery tools- Web spiders, big data visualizations & sim
 Assignment 5: 
 Unity scene & VR app for Oculus/Vive or for mobile/cardboard with networking or data feed
 
-
+<br>
 <b>Week 6:	AR Overview</b>
 
 Brief History- Steve Mann, Augmediated Reality, Calm Computing, Ubicomp
@@ -105,8 +105,8 @@ Mobile AR vs Desktop AR app setup- modifying cardboard, Gear, Oculus, Vive, PC &
 Assignment 6: 
 Unity scene & AR app for Meta/Hololens or mobile/cardboard with AR overlay or basic tracking
 
-
-Week 7: 	AR In-Depth</b>
+<br>
+<b>Week 7: 	AR In-Depth</b>
 
 Cloud software & Web service creation as AR/VR data source
 Marker tracking & custom marker creation- Vuforia
@@ -118,7 +118,7 @@ GEO location & GEO fencing- GPS & address-based services, drawing boundaries
 Assignment 7: 
 Unity scene & AR app for Meta/Hololens or mobile/cardboard with advanced mode of tracking
 
-
+<br>
 <b>Week 8:	Mixed Reality Overview</b>
 
 Immersive Environments & CAVEs
@@ -136,7 +136,7 @@ Unity scene & MR app for 2-5 projectors/screens or 1 projector mapped to object 
 
 
 
-
+<br>
 <b>Week 9: 	Mixed Reality In-Depth</b>
 
 Public Spaces & Smart Cities
@@ -153,7 +153,7 @@ Giant Global Graph (Outernet)- Vizz, GlobeGraph, IMCtv
 Assignment 9: 
 Final project proposals- personal mission statement, project diagrams, schematics, & team bios
 
-
+<br>
 <b>Week 10:	3D Printing & Rapid Prototyping</b>
 
 Brief history
@@ -166,7 +166,7 @@ Maker Movement- Obama National Maker Space Initiative
 Assignment 11: 
 3D Print or 3D-Printable model (.STL) shared on Github, 3D Warehouse or other crowd platform 
 
-
+<br>
 <b>Week 11:	Future of R (reality)</b>
 
 Future Classrooms-
@@ -182,7 +182,7 @@ Big Games, AR games, Movie theater tournaments
 E-sports, Robotics & Hackers tournaments- DefCON, DARPA Grand Challenge, etc.
 Government, Speech & Activism- FSB, elections, citizen participation, data.gov
 
-
+<br>
 <b>Week 12: Deep Future- smart materials, nanotech & AI</b>
 
 MIT smart & programmable materials
